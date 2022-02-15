@@ -12,7 +12,7 @@ Make sure you have github set up.  I use ssh because once it’s secure, and you
 git config --global user.email "<your email here>"
 git config --global user.name “<your github username here>”
 ```
-3. Go to your terminal and engter the following command to get the code: 
+3. Go to your terminal and enter the following command to get the code: 
 ```bash
 git clone git@github.com:dgabriel/DGMD-Spring2022-HW.git
 ```
